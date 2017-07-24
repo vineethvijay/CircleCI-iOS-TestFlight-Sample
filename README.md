@@ -1,5 +1,5 @@
 # CircleCI-iOS-TestFlight-Sample
-Demonstrate how to deploy an iOS app automatically to testflight using CircleCI (as of Jan 7, 2015).
+Demonstrate how to deploy an iOS app automatically to testflight using CircleCI (as of Jan 7, 2015)..
 
 ## Working Demo
 https://circleci.com/gh/infolens/CircleCI-iOS-TestFlight-Sample/11
